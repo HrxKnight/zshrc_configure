@@ -1,1 +1,1 @@
-# zshrc_configur
+# zshrc_configure
